@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TracciatoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-01-13T16:44:36" hostname="LAPTOP-87V17RBH" time="0.027">
+  <properties/>
+  <testcase name="testCalcolaMappaDistanza()" classname="org.example.TracciatoTest" time="0.001"/>
+  <testcase name="testStampaTracciato()" classname="org.example.TracciatoTest" time="0.013"/>
+  <testcase name="testIsPosizioneValida()" classname="org.example.TracciatoTest" time="0.004"/>
+  <testcase name="testCostruttoreEInizializzazione()" classname="org.example.TracciatoTest" time="0.002"/>
+  <testcase name="testIsArrivato()" classname="org.example.TracciatoTest" time="0.001"/>
+  <system-out><![CDATA[P   X X 
+      X 
+X       
+X X   A 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
